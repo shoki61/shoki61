@@ -1,7 +1,7 @@
 ![Header](https://github.com/shoki61/shoki61/blob/main/developer.png "Header")
 
-<br>
-<br>
+---
+
 
 <p>
   <a><img width="225" align='right' src="https://github.com/shoki61/shoki61/blob/main/computer.jpg"></a>
