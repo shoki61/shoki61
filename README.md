@@ -22,12 +22,7 @@ I started my coding adventure by learning Java langulage as my first step. By le
 
 ---
 
-### What's on
-
-- 🔭 I’m currently working on ->  [note app backend](https://github.com/shoki61/note-app-backend) ||  [note app frontend](https://github.com/shoki61/note-app-frontend)
-- 🌱 I’m currently learning ->   Docker
-- 💡 I’m eager to learn ->  Cloud systems
-- :email: How to reach me --> <a href="mailto:sohrat6128@gmail.com">please e-mail me</a>
+### Technologies I use
 
 [![Code : JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=javascript&logoColor=yellow)](https://developer.mozilla.org/)
 [![Code : React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
@@ -42,4 +37,20 @@ I started my coding adventure by learning Java langulage as my first step. By le
 [![Code : mobx](https://img.shields.io/badge/Mobx-blue?style=flat-square&logo=mobx&logoColor=white)](https://reactjs.org/)
 [![Code : Git](https://img.shields.io/badge/Git-blue?style=flat-square&logo=git&logoColor=white)](https://reactjs.org/)
 [![Code : firebase](https://img.shields.io/badge/Firebase-blue?style=flat-square&logo=firebase&logoColor=white)](https://reactjs.org/)
+[![Code : flow](https://img.shields.io/badge/Flow-blue?style=flat-square&logo=flow&logoColor=white)](https://reactjs.org/)
+[![Code : typescript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)](https://reactjs.org/)
 [![Code : docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white)](https://reactjs.org/)
+[![Code : bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=flat-square&logo=bootstrap&logoColor=white)](https://reactjs.org/)
+
+---
+
+### What's on
+
+- 🔭 I’m currently working on ->  [note app backend](https://github.com/shoki61/note-app-backend) ||  [note app frontend](https://github.com/shoki61/note-app-frontend)
+- 🌱 I’m currently learning ->   Docker
+- 💡 I’m eager to learn ->  Cloud systems
+- :email: How to reach me --> <a href="mailto:sohrat6128@gmail.com">e-mail me</a>
+
+
+
+
