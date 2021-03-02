@@ -29,4 +29,14 @@ I started my coding adventure by learning Java langulage as my first step. By le
 - 💡 I’m eager to learn ->  Cloud systems
 - :email: How to reach me --> <a href="mailto:sohrat6128@gmail.com">please e-mail me</a>
 
-
+[![Code : JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=javascript&logoColor=yellow)](https://developer.mozilla.org/)
+[![Code : React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![Code : React Native](https://img.shields.io/badge/React_Native-blue?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![Code : NodeJs](https://img.shields.io/badge/Node.js-blue?style=flat-square&logo=node.js&logoColor=yellow)](https://reactjs.org/)
+[![Code : Express](https://img.shields.io/badge/Express-blue?style=flat-square&logo=express&logoColor=white)](https://reactjs.org/)
+[![Code : MongoDB](https://img.shields.io/badge/MongoDB-blue?style=flat-square&logo=mongodb&logoColor=white)](https://reactjs.org/)
+[![Code : Mongoose](https://img.shields.io/badge/Mongoose-blue?style=flat-square&logo=mongoosejs&logoColor=white)](https://reactjs.org/)
+[![Code : Vue](https://img.shields.io/badge/Vue-blue?style=flat-square&logo=vue.js&logoColor=white)](https://reactjs.org/)
+[![Code : Git](https://img.shields.io/badge/Git-blue?style=flat-square&logo=git&logoColor=white)](https://reactjs.org/)
+[![Code : firebase](https://img.shields.io/badge/Firebase-blue?style=flat-square&logo=firebase&logoColor=white)](https://reactjs.org/)
+[![Code : docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white)](https://reactjs.org/)
