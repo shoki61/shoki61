@@ -59,9 +59,9 @@ I started my coding adventure by learning Java language as my first step. By lea
 </p>
 
 
-- 🔭 I’m currently working on ->  [note app backend](https://github.com/shoki61/note-app-backend) ||  [note app frontend](https://github.com/shoki61/note-app-frontend)
-- 🌱 I’m currently learning ->   Docker
-- 💡 I’m eager to learn ->  Cloud systems
+- 🔭 I’m currently working on -->  [note app backend](https://github.com/shoki61/note-app-backend) ||  [note app frontend](https://github.com/shoki61/note-app-frontend)
+- 🌱 I’m currently learning -->   Docker
+- 💡 I’m eager to learn -->  Cloud systems
 - :mailbox: How to reach me --> <a href="mailto:sohrat6128@gmail.com">e-mail me</a>
 
 
