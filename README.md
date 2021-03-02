@@ -15,14 +15,13 @@
 <br>
 
 ---
-<br>
 
-
-### My developer journey :earth_asia:
 <br>
 <p>
   <a><img width="300" align='right' src="https://github.com/shoki61/shoki61/blob/main/roadmap.PNG"></a>
 </p>
+
+### My developer journey :earth_asia:
 I started my coding adventure by learning Java language as my first step. By learning all root topics of a programming language in Java, I experienced and reinforced the basic concepts of coding. Then I stepped into the Javascript world and learned Vue.js and developed several web projects. I qualified to attend a React Native Bootcamp to be held in the city I live in and after successfully completing it, I decided to continue with React and developed several mobile and web projects using React Native and React. Then I started to work on the backend based on the fact that an application does not only consist of frontend, it is necessary to have experience or knowledge of all technologies used in an application. Now I continue to improve my skills developing fullstack projects.
 <br>
 
