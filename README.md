@@ -44,7 +44,12 @@ I started my coding adventure by learning Java language as my first step. By lea
 
 ---
 
-### What's on
+### What's on :loudspeaker:
+
+<p>
+  <a><img width="200" align='right' src="https://github.com/shoki61/shoki61/blob/main/code.jpg"></a>
+</p>
+
 
 - 🔭 I’m currently working on ->  [note app backend](https://github.com/shoki61/note-app-backend) ||  [note app frontend](https://github.com/shoki61/note-app-frontend)
 - 🌱 I’m currently learning ->   Docker
