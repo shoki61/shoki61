@@ -31,21 +31,21 @@ I started my coding adventure by learning Java language as my first step. By lea
 
 [![Code : JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=javascript&logoColor=yellow&style=flat-square)](https://developer.mozilla.org/)
 [![Code : React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white&style=flat-square)](https://reactjs.org/)
-[![Code : React Native](https://img.shields.io/badge/React_Native-blue?style=flat-square&logo=react&logoColor=white&style=flat-square)](https://reactjs.org/)
-[![Code : Redux](https://img.shields.io/badge/Redux-blue?style=flat-square&logo=redux&logoColor=white&style=flat-square)](https://reactjs.org/)
-[![Code : NodeJs](https://img.shields.io/badge/Node.js-blue?style=flat-square&logo=node.js&logoColor=yellow&style=flat-square)](https://reactjs.org/)
-[![Code : Express](https://img.shields.io/badge/Express-blue?style=flat-square&logo=express&logoColor=white&style=flat-square)](https://reactjs.org/)
-[![Code : MongoDB](https://img.shields.io/badge/MongoDB-blue?style=flat-square&logo=mongodb&logoColor=white&style=flat-square)](https://reactjs.org/)
-[![Code : Mongoose](https://img.shields.io/badge/Mongoose-blue?style=flat-square&logo=mongoosejs&logoColor=white&style=flat-square)](https://reactjs.org/)
-[![Code : Vue](https://img.shields.io/badge/Vue-blue?style=flat-square&logo=vue.js&logoColor=white&style=flat-square)](https://reactjs.org/)
-[![Code : axios](https://img.shields.io/badge/Axios-blue?style=flat-square&logo=axios&logoColor=white&style=flat-square)](https://reactjs.org/)
-[![Code : mobx](https://img.shields.io/badge/Mobx-blue?style=flat-square&logo=mobx&logoColor=white&style=flat-square)](https://reactjs.org/)
-[![Code : Git](https://img.shields.io/badge/Git-blue?style=flat-square&logo=git&logoColor=white&style=flat-square)](https://reactjs.org/)
-[![Code : firebase](https://img.shields.io/badge/Firebase-blue?style=flat-square&logo=firebase&logoColor=white&style=flat-square)](https://reactjs.org/)
-[![Code : flow](https://img.shields.io/badge/Flow-blue?style=flat-square&logo=flow&logoColor=white&style=flat-square)](https://reactjs.org/)
-[![Code : typescript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white&style=flat-square)](https://reactjs.org/)
-[![Code : docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white&style=flat-square)](https://reactjs.org/)
-[![Code : bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=flat-square&logo=bootstrap&logoColor=white&style=flat-square)](https://reactjs.org/)
+[![Code : React Native](https://img.shields.io/badge/React_Native-blue?style=flat-square&logo=react&logoColor=white&style=flat-square)](https://reactnative.dev/)
+[![Code : Redux](https://img.shields.io/badge/Redux-blue?style=flat-square&logo=redux&logoColor=white&style=flat-square)](https://redux.js.org/)
+[![Code : NodeJs](https://img.shields.io/badge/Node.js-blue?style=flat-square&logo=node.js&logoColor=yellow&style=flat-square)](https://nodejs.org/en/)
+[![Code : Express](https://img.shields.io/badge/Express-blue?style=flat-square&logo=express&logoColor=white&style=flat-square)](https://expressjs.com/)
+[![Code : MongoDB](https://img.shields.io/badge/MongoDB-blue?style=flat-square&logo=mongodb&logoColor=white&style=flat-square)](https://www.mongodb.com/)
+[![Code : Mongoose](https://img.shields.io/badge/Mongoose-blue?style=flat-square&logo=mongoosejs&logoColor=white&style=flat-square)](https://mongoosejs.com/)
+[![Code : Vue](https://img.shields.io/badge/Vue-blue?style=flat-square&logo=vue.js&logoColor=white&style=flat-square)](https://vuejs.org/)
+[![Code : axios](https://img.shields.io/badge/Axios-blue?style=flat-square&logo=axios&logoColor=white&style=flat-square)](https://www.npmjs.com/package/axios)
+[![Code : mobx](https://img.shields.io/badge/Mobx-blue?style=flat-square&logo=mobx&logoColor=white&style=flat-square)](https://mobx.js.org/README.html)
+[![Code : Git](https://img.shields.io/badge/Git-blue?style=flat-square&logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)
+[![Code : firebase](https://img.shields.io/badge/Firebase-blue?style=flat-square&logo=firebase&logoColor=white&style=flat-square)]
+[![Code : flow](https://img.shields.io/badge/Flow-blue?style=flat-square&logo=flow&logoColor=white&style=flat-square)](https://flow.org/)
+[![Code : typescript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white&style=flat-square)]
+[![Code : docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white&style=flat-square)]
+[![Code : bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=flat-square&logo=bootstrap&logoColor=white&style=flat-square)]
 
 ---
 
