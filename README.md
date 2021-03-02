@@ -22,7 +22,7 @@ I started my coding adventure by learning Java language as my first step. By lea
 
 ---
 
-### Technologies I use
+### Technologies I use 💻
 
 [![Code : JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=javascript&logoColor=yellow&style=flat-square)](https://developer.mozilla.org/)
 [![Code : React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white&style=flat-square)](https://reactjs.org/)
