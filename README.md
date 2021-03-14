@@ -49,6 +49,7 @@ I started my coding adventure by learning Java language as my first step. By lea
 [![Code : TypeScript](https://img.shields.io/badge/TypeScript-royalblue?style=flat-square&logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
 [![Code : Docker](https://img.shields.io/badge/Docker-dodgerblue?style=flat-square&logo=docker&logoColor=white&style=flat-square)](https://www.docker.com/)
 [![Code : Bootstrap](https://img.shields.io/badge/Bootstrap-darkorchid?style=flat-square&logo=bootstrap&logoColor=white&style=flat-square)](https://getbootstrap.com/)
+[![Code : Styled-Components](https://img.shields.io/badge/Styled_Components-dimgrey?style=flat-square&logo=styled-components&logoColor=white&style=flat-square)](https://styled-components.com)
 
 ---
 
