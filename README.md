@@ -31,9 +31,9 @@ I started my coding adventure by learning Java language as my first step. By lea
 
 ### Technologies I use 💻
 
-[![Code : JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white&style=flat-square)](https://developer.mozilla.org/)
-[![Code : HTML5](https://img.shields.io/badge/HTML5-chocolate?style=flat-square&logo=html5&logoColor=white&style=flat-square)](https://developer.mozilla.org/)
-[![Code : CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white&style=flat-square)](https://developer.mozilla.org/)
+[![Code : JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white&style=flat-square)](https://developer.mozilla.org/tr/docs/Web/JavaScript)
+[![Code : HTML5](https://img.shields.io/badge/HTML5-chocolate?style=flat-square&logo=html5&logoColor=white&style=flat-square)](https://developer.mozilla.org/tr/docs/Web/HTML)
+[![Code : CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white&style=flat-square)](https://developer.mozilla.org/tr/docs/Web/CSS)
 [![Code : React](https://img.shields.io/badge/React-deepskyblue?style=flat-square&logo=react&logoColor=white&style=flat-square)](https://reactjs.org/)
 [![Code : React Native](https://img.shields.io/badge/React_Native-deepskyblue?style=flat-square&logo=react&logoColor=white&style=flat-square)](https://reactnative.dev/)
 [![Code : Redux](https://img.shields.io/badge/Redux-blueviolet?style=flat-square&logo=redux&logoColor=white&style=flat-square)](https://redux.js.org/)
@@ -43,7 +43,7 @@ I started my coding adventure by learning Java language as my first step. By lea
 [![Code : MongoDB](https://img.shields.io/badge/MongoDB-limegreen?style=flat-square&logo=mongodb&logoColor=white&style=flat-square)](https://www.mongodb.com/)
 [![Code : Mongoose](https://img.shields.io/badge/Mongoose-darkred?style=flat-square&logo=mongoose&logoColor=white&style=flat-square)](https://mongoosejs.com/)
 [![Code : Vue](https://img.shields.io/badge/Vue-mediumspringgreen?style=flat-square&logo=vue.js&logoColor=white&style=flat-square)](https://vuejs.org/)
-[![Code : axios](https://img.shields.io/badge/Axios-blue?style=flat-square&logo=axios&logoColor=white&style=flat-square)](https://www.npmjs.com/package/axios)
+[![Code : axios](https://img.shields.io/badge/Axios-blue?style=flat-square&logo=axios&logoColor=white&style=flat-square)](https://github.com/axios/axios)
 [![Code : mobx](https://img.shields.io/badge/Mobx-darkorange?style=flat-square&logo=mobx&logoColor=white&style=flat-square)](https://mobx.js.org/README.html)
 [![Code : Git](https://img.shields.io/badge/Git-orangered?style=flat-square&logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)
 [![Code : Firebase](https://img.shields.io/badge/Firebase-gold?style=flat-square&logo=firebase&logoColor=white&style=flat-square)](https://firebase.google.com/)
@@ -51,7 +51,7 @@ I started my coding adventure by learning Java language as my first step. By lea
 [![Code : TypeScript](https://img.shields.io/badge/TypeScript-royalblue?style=flat-square&logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
 [![Code : Docker](https://img.shields.io/badge/Docker-dodgerblue?style=flat-square&logo=docker&logoColor=white&style=flat-square)](https://www.docker.com/)
 [![Code : Bootstrap](https://img.shields.io/badge/Bootstrap-darkorchid?style=flat-square&logo=bootstrap&logoColor=white&style=flat-square)](https://getbootstrap.com/)
-[![Code : SASS](https://img.shields.io/badge/SASS-hotpink?style=flat-square&logo=sass&logoColor=white&style=flat-square)](https://developer.mozilla.org/)
+[![Code : SASS](https://img.shields.io/badge/SASS-hotpink?style=flat-square&logo=sass&logoColor=white&style=flat-square)](https://sass-lang.com)
 [![Code : Styled-Components](https://img.shields.io/badge/Styled_Components-dimgrey?style=flat-square&logo=styled-components&logoColor=white&style=flat-square)](https://styled-components.com)
 
 ---
