@@ -68,6 +68,17 @@ I started my coding adventure by learning Java language as my first step. By lea
 - 💡 I’m eager to learn -->  Cloud systems
 - :mailbox: How to reach me --> <a href="mailto:sohrat6128@gmail.com">e-mail me</a>
 
+<br>
+
+---
+
+### My deployed projects
+
+- Blog App --> [Web site](https://shokidev-myblog.web.app) & Repositories [frontend](https://github.com/shoki61/note-app-frontend), [backend](https://github.com/shoki61/note-app-backend) (react.js & node.js)
+- React Weather App --> [Web site](https://shokidev-weather-app.web.app) & [repository](https://github.com/shoki61/react-weather-app) (react.js)
+
+
+
 
 
 
