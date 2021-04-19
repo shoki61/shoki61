@@ -74,7 +74,7 @@ I started my coding adventure by learning Java language as my first step. By lea
 
 ### My deployed projects
 
-- Blog App -->  (react.js, node.js) --> [Web site](https://shokidev-myblog.web.app) || Repositories: [frontend](https://github.com/shoki61/note-app-frontend), [backend](https://github.com/shoki61/note-app-backend)
+- Blog App -->  (react.js, node.js) --> [web site](https://shokidev-myblog.web.app) || repositories: [frontend](https://github.com/shoki61/note-app-frontend), [backend](https://github.com/shoki61/note-app-backend)
 - Movie App --> (react.js) --> [web site](https://shokidev-movie-app.web.app) || [repository](https://github.com/shoki61/react-movie-app)
 - Weather App --> (react.js) --> [web site](https://shokidev-weather-app.web.app) || [repository](https://github.com/shoki61/react-weather-app)
 - Movie App --> (vue.js) --> [web site](https://shokidev-movie.web.app) || [repository](https://github.com/shoki61/shokidev-movie)
