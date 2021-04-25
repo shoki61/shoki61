@@ -72,15 +72,15 @@ I started my coding adventure by learning Java language as my first step. By lea
 
 ---
 
-### My deployed projects
+### My deployed projects 🌐
 
-##### 1) Blog App -->  (react.js, node.js) --> [web site](https://shokidev-myblog.web.app) || repositories: [frontend](https://github.com/shoki61/note-app-frontend), [backend](https://github.com/shoki61/note-app-backend)
-##### 2) Movie App --> (react.js) --> [web site](https://shokidev-movie-app.web.app) || [repository](https://github.com/shoki61/react-movie-app)
-##### 3) Weather App --> (react.js) --> [web site](https://shokidev-weather-app.web.app) || [repository](https://github.com/shoki61/react-weather-app)
-##### 4) Movie App --> (vue.js) --> [web site](https://shokidev-movie.web.app) || [repository](https://github.com/shoki61/shokidev-movie)
-##### 5) Note App --> (vue.js) --> [web site](https://shokidev-notepad.web.app) || [repository](https://github.com/shoki61/shokidev-notepad)
-##### 6) Weather App --> (vue.js) --> [web site](https://shokidev-weather.web.app) || [repository](https://github.com/shoki61/shokidev-weather)
-##### 7) Weather App --> (node.js) --> [web site](https://shoki-node-weather.herokuapp.com) || [repository](https://github.com/shoki61/node.js-weather)
+1) Blog App -->  (react.js, node.js) --> [web site](https://shokidev-myblog.web.app) || repositories: [frontend](https://github.com/shoki61/note-app-frontend), [backend](https://github.com/shoki61/note-app-backend)
+2) Movie App --> (react.js) --> [web site](https://shokidev-movie-app.web.app) || [repository](https://github.com/shoki61/react-movie-app)
+3) Weather App --> (react.js) --> [web site](https://shokidev-weather-app.web.app) || [repository](https://github.com/shoki61/react-weather-app)
+4) Movie App --> (vue.js) --> [web site](https://shokidev-movie.web.app) || [repository](https://github.com/shoki61/shokidev-movie)
+5) Note App --> (vue.js) --> [web site](https://shokidev-notepad.web.app) || [repository](https://github.com/shoki61/shokidev-notepad)
+6) Weather App --> (vue.js) --> [web site](https://shokidev-weather.web.app) || [repository](https://github.com/shoki61/shokidev-weather)
+7) Weather App --> (node.js) --> [web site](https://shoki-node-weather.herokuapp.com) || [repository](https://github.com/shoki61/node.js-weather)
 
 
 
