@@ -38,6 +38,7 @@ I started my coding adventure by learning Java language as my first step. By lea
 [![Code : React Native](https://img.shields.io/badge/React_Native-deepskyblue?style=flat-square&logo=react&logoColor=white&style=flat-square)](https://reactnative.dev/)
 [![Code : Redux](https://img.shields.io/badge/Redux-blueviolet?style=flat-square&logo=redux&logoColor=white&style=flat-square)](https://redux.js.org/)
 [![Code : NodeJs](https://img.shields.io/badge/Node.js-forestgreen?style=flat-square&logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/en/)
+[![Code : NestJs](https://img.shields.io/badge/Nest.js-forestgreen?style=flat-square&logo=nest.js&logoColor=white&style=flat-square)](https://nestjs.com)
 [![Code : Express](https://img.shields.io/badge/Express-mintcream?style=flat-square&logo=express&logoColor=black&style=flat-square)](https://expressjs.com/)
 [![Code : Postman](https://img.shields.io/badge/Postman-tomato?style=flat-square&logo=postman&logoColor=white&style=flat-square)](https://www.postman.com/)
 [![Code : MongoDB](https://img.shields.io/badge/MongoDB-limegreen?style=flat-square&logo=mongodb&logoColor=white&style=flat-square)](https://www.mongodb.com/)
